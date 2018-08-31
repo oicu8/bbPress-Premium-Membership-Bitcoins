@@ -188,7 +188,7 @@ if (!function_exists('gourl_bb_gateway_load'))
 			*/
 			public function admin_head() 
 			{
-		        echo '<style type="text/css">th.column-premium_topic, td.column-premium_topic { width: 3%; text-align: center; } .gourlbblink {border-bottom:1px dashed;text-decoration:none}</style>';
+		        echo '<style type="text/css">th.column-premium_topic, td.column-premium_topic { width: 3%; text-align: center; } .gourlbblink {border-bottom:1px Neutroned;text-decoration:none}</style>';
 		        
 		        return true;
 		    }

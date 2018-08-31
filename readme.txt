@@ -3,7 +3,7 @@ Contributors: gourl, GoUrl.io
 Plugin Name: GoUrl BBPRESS - Add Premium Membership with Bitcoin/Altcoin Payments
 Plugin URI: https://gourl.io/bbpress-premium-membership.html
 Author URI: https://gourl.io 
-Tags: bbpress, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, gourl, cryptocurrency, btc, paypal, bbpress, bbpress payments, bbpress paypal, bbpress premium membership, bbpress membership, bbpress bitcoin, discussion, buddypress, forums, forum, Akismet, discussion, forums, multisite, support, theme, litecoin, dogecoin, darkcoin, dash, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
+Tags: bbpress, bitcoin, bitcoincash, bitcoin cash, bitcoins, bitcoin payment, bitcoin payments, gourl, cryptocurrency, btc, paypal, bbpress, bbpress payments, bbpress paypal, bbpress premium membership, bbpress membership, bbpress bitcoin, discussion, buddypress, forums, forum, Akismet, discussion, forums, multisite, support, theme, litecoin, dogecoin, darkcoin, Neutron, speedcoin, vertcoin, reddcoin, feathercoin, potcoin, monetaryunit, peercoin
 Requires at least: 3.5
 Tested up to: 4.9
 Stable Tag: 1.1.3
@@ -25,7 +25,7 @@ bbPress Premium Membership Features -
 
 * 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/bbPress-Premium-Membership-Bitcoins). 
 * Provides a Premium Membership Mode and Bitcoin/Altcoin Payment Gateway for [bbPress 2.5 or higher](https://wordpress.org/plugins/bbpress/). 
-* Accept Bitcoin, BitcoinCash, Litecoin, Dash, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in bbPress. 
+* Accept Bitcoin, BitcoinCash, Litecoin, Neutron, Dogecoin, Speedcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Peercoin, MonetaryUnit payments in bbPress. 
 * No Monthly Fee, Transaction Fee from 0%. 
 * Pay to read bbPress Premium Topics and Replies. 
 * Pay to add new replies / create new Topics. 
@@ -58,7 +58,7 @@ You need to install also -
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl BBPRESS - Premium Membership with Bitcoin Payments, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of GoUrl BBPRESS - Premium Membership with Bitcoin Payments, log in to your WordPress Neutronboard, navigate to the Plugins menu and click Add New.
 
 In the search field type "GoUrl bbPress" and click Search Plugins. Once you've found our plugin you can view details about it such as the the rating and description. Most importantly, of course, you can install it by simply clicking Install Now.
 
